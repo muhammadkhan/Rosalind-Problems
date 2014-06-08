@@ -1,4 +1,0 @@
-dnaF = open('rosalind_dna.txt')
-for dna in dnaF:
-    for i in range(0, len(dnaF)):
-        
