@@ -1,6 +1,0 @@
-ct = 0
-for i in range(4189, 8567):
-    if i % 2 == 1:
-        ct += 1
-
-print(ct)
